@@ -1,5 +1,15 @@
 # To_Chris
-Example Prj
+
+Project 1: 
+安装系统:    本次实验在Linux虚拟机上搭建，主要环境如下，其他需要的第三方
+库及对应版本见requirements.txt。
+（1）Linux: Ubuntu 20.04.6
+（2）Python: 3.8
+（3）JDK: 1.8
+（4）Hadoop: 3.3.5
+（5）Spark: 3.2.0
+（6）运行软件：VS Code
+
 
 [cite_start]好的，现在我有了论文的完整内容。文中第八页的 **Example 1** 位于 **3.3 节“编程线性变换”（Program computing linear transformations）** 的开始部分。然而，在提供的PDF文本中，**并没有明确标示为“Example 1”的独立例子**。这一节是直接从关于线性变换的定义和限制条件开始的 [cite: 172]。
 
