@@ -1,0 +1,61 @@
+基于xxx算法的太阳黑子预测模型
+
+Summary:
+   研究背景, 研究的意义, 研究方法,  实验结果, 未来展望.
+
+
+
+1, Introduction
+     What are the sunspots ? [Ref:1] 
+     What are they effects on earth and our lives ? [Ref 2] [Ref 3] 所以, 我们需要准确预测太阳黑子的活动周期和数量. 
+     以前研究太阳黑子的预测主要采用xxx 算法[Ref 4],  本文的主要贡献在于创新性的提出了xxx 的预测方法. 比传统方法准确率提升 x% .  
+
+2, Research method
+2.1  传统太阳黑子的研究方法
+
+2.2  传统方法的主要缺陷
+
+2.3  本文提出基于多参数的混合AI预测模型
+2.3.1 太阳监测卫星 
+2.3.2 地磁预报监测
+2.3.3 高能粒子监测
+2.3.4 Sunspots-Prediction-Random Frost + SVM … (自己起个算法名称)
+
+     具体介绍一下这个算法, A+B+C*d = …..
+    
+
+3, Result
+     基于新算法, 对比传统 黑子预测模型,  准确率提升 x % ,      
+配上图表 (Graph and Table )
+
+3.1  Dataset
+   太阳监测卫星数据 [Ref 5] 
+       (数据格式 , 图片..)
+
+   地磁数据 [Ref 6]
+       (数据格式, xxxxxx)
+
+   高能粒子数据  [Ref 7]
+
+3.2   Benchmark
+    
+
+3.3   Result & Analysis
+    由于新算法中, 引入了更多的探测数据, 并且采用了最新的AI xxxx 算法, 所以 比传统算法性能提升 x% 
+
+4.  Discussion
+由于新算法, 引入太多的参数, 导致计算复杂度非常高. .. 并且大量各种数据获取难度 和成本非常高. …..  导致…..
+
+
+5.  Conclusion
+    
+
+6.  Future Work
+   
+
+
+
+Reference:
+[Ref 1] : http: ///xxxxxxxxxxx
+[Ref 2]  xxxxxxxxxxxxx
+[Ref 3]  xxxxxxxx
